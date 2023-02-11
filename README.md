@@ -53,7 +53,26 @@ Imbalanced Classification Report:
 
 
 * Combination Over and Under Sampling
+
+Balanced Accuracy Score:
+
+![Screen Shot 2023-02-11 at 2 28 48 PM](https://user-images.githubusercontent.com/111299372/218277501-0c2cb9df-33bd-4170-8c73-1619d81435f6.png)
+
+Imbalanced Classification Report:
+
+![Screen Shot 2023-02-11 at 2 28 53 PM](https://user-images.githubusercontent.com/111299372/218277507-52b218fc-b41a-494b-a7c8-a2cbaf08954f.png)
+
+
 * Balanced Random Forest Classifier
+
+Balanced Accuracy Score:
+
+Imbalanced Classification Report:
+
 * Easy Ensemble AdaBoost Classifier
+
+Balanced Accuracy Score:
+
+Imbalanced Classification Report:
 
 ## Summary
