@@ -30,6 +30,17 @@ Imbalanced Classification Report:
 
 
 * SMOTE Oversampling
+
+Balanced Accuracy Score:
+
+![Screen Shot 2023-02-11 at 2 25 38 PM](https://user-images.githubusercontent.com/111299372/218277361-93aac58e-9bef-4888-847b-b3b978f284fc.png)
+
+Imbalanced Classification Report:
+
+![Screen Shot 2023-02-11 at 2 25 43 PM](https://user-images.githubusercontent.com/111299372/218277379-3543464e-7bc7-49fe-a1b8-b427f3d4100d.png)
+
+
+
 * Undersampling
 * Combination Over and Under Sampling
 * Balanced Random Forest Classifier
