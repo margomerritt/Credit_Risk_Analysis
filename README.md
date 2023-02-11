@@ -67,7 +67,11 @@ Imbalanced Classification Report:
 
 Balanced Accuracy Score:
 
+![Screen Shot 2023-02-11 at 2 30 20 PM](https://user-images.githubusercontent.com/111299372/218277554-9177bcfb-32d2-4878-9dd9-0e2de287abb6.png)
+
 Imbalanced Classification Report:
+
+![Screen Shot 2023-02-11 at 2 30 25 PM](https://user-images.githubusercontent.com/111299372/218277556-7b9c3c7c-2bd1-44b5-94f9-a3829fa80ec4.png)
 
 * Easy Ensemble AdaBoost Classifier
 
