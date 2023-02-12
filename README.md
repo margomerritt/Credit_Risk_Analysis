@@ -81,6 +81,6 @@ Balanced Accuracy Score:
 
 Imbalanced Classification Report:
 
-![Screen Shot 2023-02-11 at 2 31 13 PM](https://user-images.githubusercontent.com/111299372/218277584-6dbce4b6-e2fd-4669-aa4a-429809626529.png)
+![Screen Shot 2023-02-12 at 11 42 27 AM](https://user-images.githubusercontent.com/111299372/218324426-24db39fd-f0a9-416d-8973-558a19abf8f0.png)
 
 ## Summary
