@@ -102,3 +102,11 @@ From the printed imbalanced classification report we see that the average precis
 
 
 ## Summary
+
+Precision and recall are metrics used to evaluate a model’s performance to deal with class imbalance. Precision is a measure of how reliable a positive classification is. Precision is obtained by dividing the number of true positives by the number of all positives. Recall is a measure of how many observations with a positive condition will be correctly diagnosed. Recall is the percentage of actual positive results that are predicted correctly. Sometimes recall is called the True Positive Rate.
+
+From our results we see that the average precision for all 6 machine learning models is 0.99. The breakdown of the average precision for each model is the same. The high risk precision is 0.01 and the low risk precision is 1.00.  
+
+Three models have their recall scores in a close range: Naïve Random Oversampling (rec = 0.62), SMOTE oversampling (rec = 0.69), and Combination Over and Under Sampling (rec = 0.57). These three recall scores lie within a .10 range. Two of the machine learning models have a significantly higher recall score. The Balanced Random Forest Classifier (rec = 0.87) and Easy Ensemble AdaBoost Classifier (rec = 0.94). The undersampling model is an outlier with a recall value of 0.40. This is a significantly lower recall value compared to the other five models.
+
+
