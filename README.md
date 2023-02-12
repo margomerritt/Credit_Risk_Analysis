@@ -109,7 +109,7 @@ From our results we see that the average precision for all 6 machine learning mo
 
 The two models that have the highest recall score are both ensemble classifiers. They are the Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier. From the results we see that they have the two highest balanced accuracy scores as well. The Balanced Random Forest Classifier has a balanced accuracy score of 0.7885 and the Easy Ensemble AdaBoost Classifier has a balanced accuracy score of 0.9316. The highest balanced accuracy score of the four other machine learning models is 0.65. 
 
-From the results we see that either of the two ensemble classifier models would be the best machine learning models to use out of the six models in this analysis. Between the Balanced Random Forest Classifier and the Easy Ensemble AdaBoost Classifier, the Easy Ensemble AdaBoost Classifier is the best model to use. The Easy Ensemble AdaBoost Classifier has the highest balanced accuracy score and the highest recall score. 
+From the results we see that either of the two ensemble classifier models would be the best machine learning models to use out of the six models in this analysis. Between the Balanced Random Forest Classifier and the Easy Ensemble AdaBoost Classifier, the Easy Ensemble AdaBoost Classifier is the best model to use because it has the highest balanced accuracy score and the highest recall score. 
 
 
 
