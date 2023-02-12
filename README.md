@@ -20,8 +20,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 The calculated balanced accuracy score for the Naive Random Oversampling model is 0.64.
 
-![Screen Shot 2023-02-11 at 2 23 34 PM](https://user-images.githubusercontent.com/111299372/218277274-e35a5d9f-0fcf-40d9-92a3-07acc89d7491.png)
-
+![Screen Shot 2023-02-12 at 11 53 03 AM](https://user-images.githubusercontent.com/111299372/218324976-c13d9678-157c-441d-ad31-7ff9499550ce.png)
 
 Imbalanced Classification Report:
 
