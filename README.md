@@ -58,6 +58,7 @@ Imbalanced Classification Report:
 From the printed imbalanced classification report we see that the average precision is 0.99 and the average recall score is 0.40 for the Undersampling model.
 
 
+
 * Combination Over and Under Sampling
 
 Balanced Accuracy Score:
@@ -72,6 +73,8 @@ Imbalanced Classification Report:
 
 From the printed imbalanced classification report we see that the average precision is 0.99 and the average recall score is 0.57 for the Combination Over and Under Sampling model.
 
+
+
 * Balanced Random Forest Classifier
 
 Balanced Accuracy Score:
@@ -85,6 +88,8 @@ Imbalanced Classification Report:
 ![Screen Shot 2023-02-11 at 2 30 25 PM](https://user-images.githubusercontent.com/111299372/218277556-7b9c3c7c-2bd1-44b5-94f9-a3829fa80ec4.png)
 
 From the printed imbalanced classification report we see that the average precision is 0.99 and the average recall score is 0.87 for the Balanced Random Forest Classifier model.
+
+
 
 * Easy Ensemble AdaBoost Classifier
 
